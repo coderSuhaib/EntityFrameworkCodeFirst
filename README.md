@@ -1,5 +1,5 @@
 # EntityFrameworkCodeFirst
-__________________________
+
 Created an entity Framework using code first method
 
 ## Objective
